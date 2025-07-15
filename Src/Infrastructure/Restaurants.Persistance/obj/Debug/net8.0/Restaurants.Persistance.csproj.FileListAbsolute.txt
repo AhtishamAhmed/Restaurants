@@ -1,0 +1,12 @@
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\bin\Debug\net8.0\Restaurants.Persistance.deps.json
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\bin\Debug\net8.0\Restaurants.Persistance.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\bin\Debug\net8.0\Restaurants.Persistance.pdb
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.AssemblyInfoInputs.cache
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.AssemblyInfo.cs
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.sourcelink.json
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\refint\Restaurants.Persistance.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\Restaurants.Persistance.pdb
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Infrastructure\Restaurants.Persistance\obj\Debug\net8.0\ref\Restaurants.Persistance.dll

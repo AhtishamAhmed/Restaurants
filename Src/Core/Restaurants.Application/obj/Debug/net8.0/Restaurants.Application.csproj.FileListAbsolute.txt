@@ -1,0 +1,12 @@
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.sourcelink.json
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+C:\Users\Phebsoft\source\repos\Restaurants\Src\Core\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
