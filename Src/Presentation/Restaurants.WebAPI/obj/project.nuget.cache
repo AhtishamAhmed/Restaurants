@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "I7cgbeeMX/8=",
+  "dgSpecHash": "4CGcW7QbQ9w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phebsoft\\source\\repos\\Restaurants\\Src\\Presentation\\Restaurants.WebAPI\\Restaurants.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Phebsoft\\Pictures\\ang\\Restaurants\\Src\\Presentation\\Restaurants.WebAPI\\Restaurants.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phebsoft\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Phebsoft\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",

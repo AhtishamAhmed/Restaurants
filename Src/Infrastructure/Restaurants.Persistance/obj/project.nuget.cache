@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FWXyKgDrHOo=",
+  "dgSpecHash": "1FaE1D38+Xs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phebsoft\\source\\repos\\Restaurants\\Src\\Infrastructure\\Restaurants.Persistance\\Restaurants.Persistance.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Phebsoft\\Pictures\\ang\\Restaurants\\Src\\Infrastructure\\Restaurants.Persistance\\Restaurants.Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phebsoft\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
