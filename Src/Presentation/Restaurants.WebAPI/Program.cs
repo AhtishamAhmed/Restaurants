@@ -1,6 +1,7 @@
 using Restaurants.Application;
 using Restaurants.Infrastructure;
 using Restaurants.Persistance;
+using Restaurants.WebAPI.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,7 +27,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseMiddleware<ErrorHandlerMiddleware>();
 app.MapControllers();
 
 app.Run();

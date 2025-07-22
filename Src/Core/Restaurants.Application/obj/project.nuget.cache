@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CpEvU2mZJcM=",
+  "dgSpecHash": "Wn9yJhr8TJ0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Phebsoft\\Pictures\\ang\\Restaurants\\Src\\Core\\Restaurants.Application\\Restaurants.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phebsoft\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\Phebsoft\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\Phebsoft\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Phebsoft\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",

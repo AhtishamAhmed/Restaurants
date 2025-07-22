@@ -3,11 +3,12 @@ using Mapster;
 using MediatR;
 using Microsoft.Extensions.Logging;
 using Restaurants.Application.Interfaces;
+using Restaurants.Application.Wrappers;
 using Restaurants.Domain.Entities;
 
 namespace Restaurants.Application.Features.Restaurants.Commands
 {
-    public class CreateRestaurantCommandHandler : IRequestHandler<CreateRestaurantCommand, Guid>
+    public class CreateRestaurantCommandHandler : IRequestHandler<CreateRestaurantCommand, ApiResponse<Guid>>
     {
         private readonly ILogger<CreateRestaurantCommandHandler> _logger;
         private readonly IRestaurantsRepository _restaurantsRepository;
@@ -20,7 +21,7 @@ namespace Restaurants.Application.Features.Restaurants.Commands
             _restaurantsRepository = restaurantsRepository;
         }
 
-        public async Task<Guid> Handle(CreateRestaurantCommand request, CancellationToken cancellationToken)
+        public async Task<ApiResponse<Guid>> Handle(CreateRestaurantCommand request, CancellationToken cancellationToken)
         {
             _logger.LogInformation("create reataurant");
 
@@ -28,7 +29,7 @@ namespace Restaurants.Application.Features.Restaurants.Commands
 
             var result = await _restaurantsRepository.Create(restaurant);
 
-            return result;
+            return new ApiResponse<Guid>(result, "Create Restaurant Successfully");
         }
     }
 }

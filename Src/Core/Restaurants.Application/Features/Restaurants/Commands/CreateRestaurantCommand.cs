@@ -1,7 +1,8 @@
 ﻿using MediatR;
+using Restaurants.Application.Wrappers;
 namespace Restaurants.Application.Features.Restaurants.Commands
 {
-    public class CreateRestaurantCommand : IRequest<Guid>
+    public class CreateRestaurantCommand : IRequest<ApiResponse<Guid>>
     {
         public string? Name { get; set; }
         public string? Description { get; set; }

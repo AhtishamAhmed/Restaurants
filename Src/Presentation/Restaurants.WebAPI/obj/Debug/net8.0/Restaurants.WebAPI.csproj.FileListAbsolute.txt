@@ -30,13 +30,6 @@ C:\Users\Phebsoft\source\repos\Restaurants\Src\Presentation\Restaurants.WebAPI\o
 C:\Users\Phebsoft\source\repos\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.pdb
 C:\Users\Phebsoft\source\repos\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.genruntimeconfig.cache
 C:\Users\Phebsoft\source\repos\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\ref\Restaurants.WebAPI.dll
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.csproj.AssemblyReference.cache
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfoInputs.cache
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfo.cs
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.sourcelink.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\appsettings.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Restaurants.WebAPI.staticwebassets.endpoints.json
@@ -48,6 +41,8 @@ C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\b
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Mapster.dll
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Mapster.Core.dll
@@ -174,6 +169,14 @@ C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\b
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Restaurants.Infrastructure.pdb
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Restaurants.Persistance.pdb
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfo.cs
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.sourcelink.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Restaurants.WebAPI.styles.css
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
