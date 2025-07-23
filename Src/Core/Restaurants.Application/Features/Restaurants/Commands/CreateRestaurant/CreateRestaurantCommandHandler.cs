@@ -6,7 +6,7 @@ using Restaurants.Application.Interfaces;
 using Restaurants.Application.Wrappers;
 using Restaurants.Domain.Entities;
 
-namespace Restaurants.Application.Features.Restaurants.Commands
+namespace Restaurants.Application.Features.Restaurants.Commands.CreateRestaurant
 {
     public class CreateRestaurantCommandHandler : IRequestHandler<CreateRestaurantCommand, ApiResponse<Guid>>
     {

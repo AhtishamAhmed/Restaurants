@@ -19,5 +19,18 @@ namespace Restaurants.Persistance.Repositories
             await _dbContext.SaveChangesAsync();
             return entity.Id;
         }
+        public async Task<Restaurant?> GetByIdAsync(Guid id)
+        {
+            var restaurant = await _dbContext.Restaurants
+                .Include(r => r.Dishes)
+                .FirstOrDefaultAsync(x => x.Id == id);
+
+            return restaurant;
+        }
+        public async Task Delete(Restaurant entity)
+        {
+            _dbContext.Remove(entity);
+            await _dbContext.SaveChangesAsync();
+        }
     }
 }

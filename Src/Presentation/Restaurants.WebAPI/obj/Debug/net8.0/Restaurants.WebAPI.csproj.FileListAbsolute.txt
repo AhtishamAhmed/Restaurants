@@ -174,7 +174,6 @@ C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\o
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfoInputs.cache
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.AssemblyInfo.cs
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.sourcelink.json
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Restaurants.WebAPI.styles.css

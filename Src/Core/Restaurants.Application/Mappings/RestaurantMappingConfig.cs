@@ -1,5 +1,5 @@
 ﻿using Mapster;
-using Restaurants.Application.Features.Restaurants.Commands;
+using Restaurants.Application.Features.Restaurants.Commands.CreateRestaurant;
 using Restaurants.Domain.Entities;
 
 namespace Restaurants.Application.Mappings

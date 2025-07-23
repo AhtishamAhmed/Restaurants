@@ -9,7 +9,23 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "Restaurants.Application.Features.Restaurants.Commands.CreateRestaurantCommand",
+        "Type": "Restaurants.Application.Features.Restaurants.Commands.CreateRestaurant.CreateRestaurantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurants.WebAPI.Controllers.RestaurantsController",
+    "Method": "DeleteRestaurant",
+    "RelativePath": "api/Restaurants/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],
