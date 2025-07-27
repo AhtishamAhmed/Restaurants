@@ -188,3 +188,4 @@ C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\o
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.pdb
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.genruntimeconfig.cache
 C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\ref\Restaurants.WebAPI.dll
+C:\Users\Phebsoft\Pictures\ang\Restaurants\Src\Presentation\Restaurants.WebAPI\obj\Debug\net8.0\Restaurants.WebAPI.MvcApplicationPartsAssemblyInfo.cs

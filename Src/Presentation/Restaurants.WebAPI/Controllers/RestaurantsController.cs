@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Restaurants.Application.Features.Restaurants.Commands.CreateRestaurant;
 using Restaurants.Application.Features.Restaurants.Commands.DeleteRestaurant;
+using Restaurants.Application.Features.Restaurants.DTOs;
+using Restaurants.Application.Features.Restaurants.Queries.GetAllRestaurants;
+using Restaurants.Application.Restaurants.Queries.GetRestaurantById;
 
 namespace Restaurants.WebAPI.Controllers
 {
@@ -31,6 +34,19 @@ namespace Restaurants.WebAPI.Controllers
         public async Task<IActionResult> DeleteRestaurant([FromRoute] Guid id, CancellationToken cancellationToken)
         {
             var result = await _mediator.Send(new DeleteRestaurantCommand { Id = id }, cancellationToken);
+            return Ok(result);
+        }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<RestaurantDto>>> GetAll()
+        {
+            var restaurants = await _mediator.Send(new GetAllRestaurantsQuery());
+            return Ok(restaurants);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<RestaurantDto?>> GetById([FromRoute] Guid id)
+        {
+            var result = await _mediator.Send(new GetRestaurantByIdQuery { Id = id });
             return Ok(result);
         }
     }
